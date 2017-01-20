@@ -9,7 +9,6 @@
 	<configs>
 	</configs>
 	<autoconfigs>
-		<config>java:hello.Application</config>
 	</autoconfigs>
 	<configSets>
 	</configSets>
